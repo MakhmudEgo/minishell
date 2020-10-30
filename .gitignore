@@ -1,0 +1,11 @@
+*.DS_Store
+**/cmake-build-debug
+**/.idea
+test.c
+a.out
+*.o
+*.a
+**/.vscode
+minishell
+**/minishell.dSYM/
+**/test
