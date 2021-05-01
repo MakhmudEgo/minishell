@@ -1,5 +1,8 @@
 # minishell
 
+[DEPRECATED]
+p.s new Norm 42 and upds subject
+
 Use:
 
 1. make
